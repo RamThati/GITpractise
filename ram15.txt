@@ -1,0 +1,2 @@
+Hi Im trying to start using GIT
+revoked from staging area before committing & editing this line 
